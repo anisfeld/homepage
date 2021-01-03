@@ -1,0 +1,14 @@
+publications:
+- title: "Equilibrium effects of hugging and cuddling"
+  pdflink: "/pdf/example.pdf"
+  journal: "Quarterly Journal of Hugonomics, Oct 2020"
+  coauthors: "Ari Anisfeld"
+  links:
+    - url: "/pdf/example.pdf"
+      text: "links to stuff like slides"
+    - url: "https://www.cool.com"
+      text: "appendices etc"
+      note: "note about the appendix"
+  abstract: >
+    See the readme for more information. You can make new folders as well under
+    static. At somepoint the git repo will become kind of heavy though!

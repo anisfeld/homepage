@@ -1,0 +1,17 @@
+working_papers:
+- title: "Lei's first working paper"
+  pdflink: "/pdf/example.pdf"
+  draft_date: "November 2020"
+  note: "This is a note."
+  abstract: >
+    See the readme for more information. You can make new folders as well under
+    static. At somepoint the git repo will become kind of heavy though!
+
+
+- title: "Lei's second working paper"
+  pdflink: "/pdf/example.pdf"
+  draft_date: "December 2020"
+  coauthors: "my friends"
+  abstract: >
+    See the readme for more information. You can make new folders as well under
+    static. At somepoint the git repo will become kind of heavy though!

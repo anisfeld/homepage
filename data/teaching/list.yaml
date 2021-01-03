@@ -1,0 +1,14 @@
+courses:
+- title: Intermediate Macroeconomics
+  id: "000"
+  institute: Boston University
+  term: Spring '21
+  instructor: Bob Dole
+  role: Teaching Fellow
+
+- title: Money and Banking
+  id: "000"
+  institute: Boston University
+  term: Spring '21
+  instructor: Bob Hope
+  role: Teaching Fellow
